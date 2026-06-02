@@ -16,6 +16,7 @@ Built an end-to-end data engineering pipeline using:
 ## Architecture
 
 ![Architecture Diagram](images/Walmart E2E Flow.drawio.png)
+![Architecture](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Data Pipeline
 
