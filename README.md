@@ -15,7 +15,7 @@ Built an end-to-end data engineering pipeline using:
 
 ## Architecture
 
-![Architecture Diagram]([images/architecture.png](https://github.com/aamabile001/walmart-data-engineering-project/blob/main/images/architecture.png)
+![Architecture Diagram]([images/architecture.png]
 
 ## Data Pipeline
 
