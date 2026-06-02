@@ -49,7 +49,7 @@ CSV Files
 
 Live Dashboard:
 
-[Tableau Public Link Here]
+[[Tableau Public Link Here](https://public.tableau.com/authoring/E2EWalmartProject-AnthonyAmabile/WeeklySalesbyCPI/Summary%20Dashboard#1)]
 
 ## Skills Demonstrated
 
