@@ -15,7 +15,7 @@ Built an end-to-end data engineering pipeline using:
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture Diagram](images/architecture.png)
 
 ## Data Pipeline
 
