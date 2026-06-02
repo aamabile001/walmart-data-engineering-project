@@ -15,7 +15,7 @@ Built an end-to-end data engineering pipeline using:
 
 ## Architecture
 
-![Architecture Diagram][images/architecture.png]
+![Architecture Diagram](images/architecture.png)
 
 ## Data Pipeline
 
@@ -49,7 +49,7 @@ CSV Files
 
 Live Dashboard:
 
-[View Tableau Dashboard](https://public.tableau.com/authoring/E2EWalmartProject-AnthonyAmabile/WeeklySalesbyCPI/Summary%20Dashboard#1)]
+[View Tableau Dashboard](https://public.tableau.com/authoring/E2EWalmartProject-AnthonyAmabile/WeeklySalesbyCPI/Summary%20Dashboard#1)
 
 ## Skills Demonstrated
 
