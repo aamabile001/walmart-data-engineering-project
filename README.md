@@ -1,7 +1,6 @@
-# walmart-data-engineering-project
-End-to-end data engineering project using AWS S3, Snowflake, dbt, Python, and Tableau. Implements Bronze → Staging → Mart architecture with SCD Type 1 &amp; Type 2 dimensional modeling and interactive business reporting.
-
 # Walmart End-to-End Data Engineering Project
+
+End-to-end data engineering project using AWS S3, Snowflake, dbt, Python, and Tableau. Implements Bronze → Staging → Mart architecture with SCD Type 1 &amp; Type 2 dimensional modeling and interactive business reporting.
 
 ## Overview
 
@@ -12,6 +11,14 @@ Built an end-to-end data engineering pipeline using:
 - dbt
 - Python
 - Tableau Public
+
+## Repository Structure
+
+```text
+dbt/        dbt models, macros, and project configuration
+sql/        Snowflake setup, stage, COPY INTO, and validation scripts
+images/     Architecture diagram and dashboard screenshots
+README.md   Project overview and documentation
 
 ## Architecture
 
