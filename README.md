@@ -53,7 +53,7 @@ Live Dashboard:
 
 ## Dashboard Samples
 
-![Dashboard Screenshot]("images/tableau dashboard final".png)
+![Dashboard Screenshot](images/tableau_dashboard_final.png)
 
 ## Results
 
