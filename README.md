@@ -51,6 +51,29 @@ Live Dashboard:
 
 [View Tableau Dashboard](https://public.tableau.com/authoring/E2EWalmartProject-AnthonyAmabile/WeeklySalesbyCPI/Summary%20Dashboard#1)
 
+## Results
+
+Successfully built:
+
+- AWS S3 ingestion pipeline
+- Snowflake Bronze Layer
+- dbt staging models
+- SCD Type 1 dimensions
+- SCD Type 2 fact table
+- Tableau dashboards
+
+Processed:
+- Sales Data
+- Store Data
+- Macroeconomic Data
+
+Generated:
+- Date Dimension
+- Store Dimension
+- Fact Table
+- Analytic Dashboard
+
+
 ## Skills Demonstrated
 
 - AWS S3
