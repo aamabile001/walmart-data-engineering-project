@@ -71,7 +71,6 @@ Generated:
 - Date Dimension
 - Store Dimension
 - Fact Table
-- Analytic Dashboard
 
 
 ## Skills Demonstrated
