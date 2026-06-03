@@ -51,6 +51,10 @@ Live Dashboard:
 
 [View Tableau Dashboard](https://public.tableau.com/authoring/E2EWalmartProject-AnthonyAmabile/WeeklySalesbyCPI/Summary%20Dashboard#1)
 
+## Dashboard Samples
+
+![Dashboard Screenshot]("images/tableau dashboard final".png)
+
 ## Results
 
 Successfully built:
