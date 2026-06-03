@@ -14,7 +14,6 @@ Built an end-to-end data engineering pipeline using:
 
 ## Repository Structure
 
-```text
 dbt/        dbt models, macros, and project configuration
 sql/        Snowflake setup, stage, COPY INTO, and validation scripts
 images/     Architecture diagram and dashboard screenshots
